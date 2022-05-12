@@ -5,4 +5,6 @@
 let nombre = "Alberto";
 let objetoPerdido = "paraguas";
 
-console.log(nombre + " ha perdido el ");
+console.log("Alberto" + " ha perdido"+"el paraguas" );
+
+

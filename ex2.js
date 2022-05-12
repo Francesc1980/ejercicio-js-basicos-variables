@@ -13,9 +13,16 @@
 
  /**
   * En este punto, que valor tendrá 'variable4'. ¿Por qué? ¿Cómo podrías comprobarlo?
+  * la variable 4 caldria 1 porque la hemos modificado  lo comprobaria con un console.log
+  * 
   */
 
+ 
+
+ //
+
   variable2 = variable1;
+  //variable 2 vale -7
   variable4 = variable2 * 2;
 
 /**
